@@ -1,0 +1,52 @@
+
+.side-menu {
+  width: 300px;
+  height: 100vh;
+  background-color: #035b51;
+  padding: 20px;
+  transition: transform 0.3s; /* Adiciona uma transição suave para o menu abrir/fechar */
+  transform: translateX(-200px);
+  margin-left: -1350px; /* Inicia o menu fora da tela */
+}
+
+.side-menu.open {
+  transform: translateX(0); /* Quando estiver aberto, traz o menu para a posição normal */
+}
+
+.menu-toggle {
+  cursor: pointer;
+  color: rgb(245, 238, 238);
+  margin-left: 280px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin-left: 80px;
+  color: rgb(243, 239, 239);
+  margin-top: 10px;
+}
+
+li {
+  margin-bottom: 10px;
+  font-size: 16px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.settings{
+  position: absolute;
+  font-size: 20px;
+}
+.mart{
+  position: absolute;
+  font-size: 20px;
+}
+.sair{
+  margin-left: 5px;
+  margin-top: 10px;
+}
+.dasboard{
+  position: absolute;
+  margin-left: 80px;
+  color: aqua;
+}

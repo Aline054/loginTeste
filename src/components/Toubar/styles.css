@@ -1,0 +1,262 @@
+
+.faBar{
+  color: black;
+ position: absolute;
+ margin-left: -500px;
+ margin-top: -320px;
+ font-size: 20px;
+}
+.Fibar{
+  position: absolute;
+  color: black;
+  margin-top: -320px;
+  margin-left: -430px;
+  font-size: 20px;
+  width: 40px;
+}
+.input{
+  position: absolute;
+  margin-top: -320px;
+  margin-left: -380px;
+  height: 20px;
+  width: 250px;
+}
+.li{
+  position: absolute; 
+  margin-top: -325px;
+  font-size: 12px;
+  color:black;
+}
+.fi{
+  color: black;
+  position: absolute; 
+  margin-top: -325px;
+  margin-left: 35px;
+}
+.a{
+  color: black;
+  position: absolute; 
+  font-size: 12px;
+  margin-top: -325px;
+  margin-left: 70px;
+}
+.user{
+  color: black;
+  font-size: 20px;
+  position: absolute; 
+  margin-left: -490px;
+  margin-top: -240px;
+}
+.nome{
+  color: black;
+  font-size: 12px;
+  position: absolute; 
+  margin-left: -490px;
+  margin-top: -200px;
+}
+.input1{
+  position: absolute;
+  margin-top: -175px;
+  margin-left: -490px;
+  height: 30px;
+  width: 450px;
+  border-radius: 5px;
+}
+.cpf{
+  color: black;
+  font-size: 12px;
+  position: absolute; 
+  margin-left: -3px;
+  margin-top: -200px;
+}
+.inputCPF{
+  position: absolute;
+  margin-top: -175px;
+  border-radius: 5px;
+  height: 30px;
+  width: 330px;
+}
+.emailTou{
+  color: black;
+  font-size: 12px;
+  position: absolute; 
+  margin-left: -490px;
+  margin-top: -110px;
+}
+.inputEmail{
+  color: black;
+  font-size: 16px;
+  position: absolute; 
+  margin-left: -490px;
+  margin-top: -90px;
+  height: 30px;
+  width: 450px;
+  border-radius: 5px;
+}
+.cll{
+  color: black;
+  font-size: 12px;
+  position: absolute; 
+  margin-left: -5px;
+  margin-top: -110px;
+}
+.inputCll{
+  position: absolute;
+  margin-top: -90px;
+  border-radius: 5px;
+  height: 30px;
+  width: 330px;
+}
+.login1{
+  color: black;
+  font-size: 12px;
+  margin-left: -490px;
+  position: absolute;
+  margin-top: -30px;
+}
+.inputlogin{
+position: absolute;
+margin-left: -490px;
+margin-top: -10px;
+border-radius: 5px;
+height: 30px;
+width: 250px;
+}
+.cdt{
+  position: absolute; 
+  color: black;
+  font-size: 12px;
+  margin-top: -30px;
+  margin-left: -190px;
+}
+.inputCdt{
+position: absolute;
+margin-left: -190px;
+margin-top: -10px;
+border-radius: 5px;
+height: 30px;
+width: 250px;
+}
+.perfil{
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  margin-left: 85px;
+  margin-top: -35px;
+}
+.inputPerfil{
+  position: absolute;
+  margin-top: -10px;
+  border-radius: 5px;
+  margin-left: 90px;
+  height: 30px;
+  width: 250px;
+}
+.h2{
+  color: black;
+  font-size: 16px;
+  position: absolute;
+  margin-top: 40px;
+  margin-left: -490px;
+}
+.funcao{
+  font-size: 14px;
+  color: black;
+  position: absolute;
+  margin-top: 80px;
+  margin-left: -480px;
+}
+.funcao1{
+  font-size: 14px;
+  color: black;
+  position: absolute;
+  margin-top: 80px;
+  margin-left: -400px;
+}
+.funcao2{
+  font-size: 14px;
+  color: black;
+  position: absolute;
+  margin-top: 80px;
+  margin-left: -310px;
+}
+.funcao3{
+  font-size: 14px;
+  color: black;
+  position: absolute;
+  margin-top: 80px;
+  margin-left: -210px;
+}
+.parceiro{
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  margin-top: 60px;
+  margin-left: 80px
+}
+.parce{
+  position: absolute;
+  margin-top: 90px;
+  margin-left: 80px;
+  height: 30px;
+  width: 250px;
+  border-radius: 10px;
+}
+.redefinicao{
+  position: absolute;
+  color: black;
+  font-size: 16px;
+ margin-left: -500px;
+  font-weight: bold;
+  margin-top: 120px;
+}
+.CRSenha{
+  position: absolute;
+  color: black;
+  font-size: 15px;
+  margin-top: 150px;
+  margin-left: -490px;
+}
+.crSenha{
+  position: absolute;
+  margin-top: 180px;
+  margin-left: -490px;
+  height: 25px;
+  width: 170px;
+  border-radius: 10px;
+}
+.CRenha{
+  position: absolute;
+  margin-top: 150px;
+  color: black;
+  font-size: 15px;
+  margin-left: -250px;
+}
+.crsenha{
+  position: absolute;
+  margin-top: 180px;
+  margin-left: -280px;
+  border-radius: 10px;
+  height: 25px;
+  width: 170px;
+}
+.butnCancelar{
+  position: absolute;
+  margin-top: 200px;
+  width: 150px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: rgb(24, 12, 115);
+  color: azure;
+
+}
+.btnSalvar{
+  position: absolute;
+  width: 150px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: rgb(24, 12, 115);
+  color: azure;
+  margin-top: 200px;
+  margin-left: 180px;
+}

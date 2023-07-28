@@ -1,0 +1,56 @@
+.container{
+  background-color: #f5f1f1;
+  height: 380px;
+  width: 350px;
+}
+.login{
+  margin-top: -140px;
+  color: black;
+  font-size: 40px;
+  margin-left: 20px;
+}
+.emailInput{
+  height: 30px;
+  width: 200px;
+  padding-left: 90px;
+  border-radius: 10px;
+ 
+  font-weight: 500;
+  margin-left: 20px;
+}
+.pEmail{
+  color: black;
+  font-size: 15px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.pSenha{
+  color: black;
+  font-size: 15px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.senha{
+  height: 30px;
+  width: 200px;
+  border-radius: 10px;
+  padding-left: 90px;
+  font-weight: 500;
+  margin-left: 20px;
+}
+.link{
+  font-size: 12px;
+  position: absolute;
+  margin-left: -110px;
+  margin-top: 50px;
+}
+.button{
+  position: absolute;
+  margin-left: -280px;
+  margin-top:90px;
+  width: 270px;
+  background-color: #2ce629;
+  height: 30px;
+  
+ 
+}
